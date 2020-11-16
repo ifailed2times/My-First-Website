@@ -1,0 +1,162 @@
+.header1 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
+.header2 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+.header3 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
+.header4 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: indianred;
+    font-weight: bold;
+}
+
+.header5 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
+.header6 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #555555;
+    font-weight: bold;
+}
+
+.section--page {
+    height: 55vh;
+    padding: 36px 18px 18px;
+}
+
+.nav {
+    padding: 0;
+}
+.nav__item {
+    list-style:none;
+    display: inline-block;
+}
+.nav__link {
+    padding: 1rem;   
+}
+
+h2
+{
+    font-size: 36px;
+    font-family: sans-serif;
+    color: white;
+}
+
+p
+{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.button
+{
+    font-family: sans-serif;
+    background-color: #333333;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 175px;
+}
+
+.button1
+{
+    font-family: sans-serif;
+    background-color: #333333;
+    color: white;
+}
+
+.button1:hover
+{
+    font-family: sans-serif;
+    background-color: #555555;
+    color: white;
+}
+
+.table
+{
+    background-color: #333333;
+    padding: 10px;
+    position: absolute;
+    top: 210px;
+    right: 25px;
+}
+
+#bastard
+{
+    background-image: url("https://images.genius.com/63c125f39ceb153758d2c244a80c6d7b.1920x1080x1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#goblin
+{
+    background-image: url("https://i.ytimg.com/vi/LEpcdadHl8o/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wolf
+{
+    background-image: url("https://wallpaperaccess.com/full/10372.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cherrybomb
+{
+    background-image: url("https://wallpaperaccess.com/full/23861.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#flowerboy
+{
+    background-image: url("https://external-preview.redd.it/om6D7VpwWptfImaRwmJ000dWyVsrCIYUHQkZI9I-GtE.jpg?auto=webp&s=ceb2db357f6acccb7af85c88961d477bc8260bd4");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#igor
+{
+    background-image: url("https://i.redd.it/ev7hby1aumw21.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#album
+{
+    position: absolute;
+    top: 210px;
+    left: 25px;
+    width: 400px;
+    height: 400px;
+    box-shadow: 0px 0px 20px #000000;
+}
